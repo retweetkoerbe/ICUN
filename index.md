@@ -36,6 +36,7 @@
 
 ## 🖥 Screenshots  
 <img src="mockup1.png" alt="ICUN App Mockup" width="400">
+<img src="mockup2.png" alt="ICUN App Mockup 2" width="400">
 
 ## 📩 Kontakt
 Für weitere Informationen oder Anfragen kontaktieren Sie uns bitte unter: [philip.knoll@gmail.com](mailto:philip.knoll@gmail.com)
