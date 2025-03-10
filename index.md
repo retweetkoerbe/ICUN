@@ -1,7 +1,3 @@
----
-layout: default
-title: Willkommen bei ICUN
----
 
 # ICUN – Optimierte Ernährung für Intensivpatienten
 
