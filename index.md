@@ -1,4 +1,5 @@
 
+
 # ICUN – Optimierte Ernährung für Intensivpatienten
 
 **ICUN** (Intensive Care Unit Nutrition) ist eine spezialisierte App zur Unterstützung der intensivmedizinischen Ernährungsversorgung. Sie ermöglicht eine präzise Berechnung des Kalorienbedarfs basierend auf klinischen Parametern und medizinischen Bedingungen.
@@ -35,8 +36,10 @@
 - **Intuitive Navigation** per SwiftUI mit klaren Kategorien und Modulen.  
 
 ## 🖥 Screenshots  
-<img src="mockup1.png" alt="ICUN App Mockup" width="400">
-<img src="mockup2.png" alt="ICUN App Mockup 2" width="400">
+<div style="display: flex; gap: 20px;">
+    <img src="mockup1.png" alt="ICUN App Mockup" width="400">
+    <img src="mockup2.png" alt="ICUN App Mockup 2" width="400">
+</div>
 
 ## 📩 Kontakt
 Für weitere Informationen oder Anfragen kontaktieren Sie uns bitte unter: [philip.knoll@gmail.com](mailto:philip.knoll@gmail.com)
