@@ -14,6 +14,10 @@ title: Willkommen bei ICUN
 - **Datenanalyse:** Umfassende Analyse-Tools zur Bewertung der Ernährungswirksamkeit und des Patientenfortschritts.
 - **Integration in Krankenhausinformationssysteme:** Nahtlose Verbindung mit bestehenden Systemen für einen reibungslosen Informationsfluss.
 
+## Mockup der ICUN-App
+
+<img src="mockup1.png" alt="ICUN App Mockup" width="400">
+
 ## Kontakt
 
 Für weitere Informationen oder Anfragen kontaktieren Sie uns bitte unter: [philip.knoll@gmail.com](mailto:philip.knoll@gmail.com)
